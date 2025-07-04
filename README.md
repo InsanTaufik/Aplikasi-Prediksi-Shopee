@@ -1,19 +1,19 @@
 # 📊 Sistem Prediksi Penjualan Rumah Bayitaz
 
-## 🎯 Deskripsi Project
+## 🎯 Deskripsi Proyek
 
 Aplikasi berbasis web menggunakan Streamlit untuk memprediksi penjualan produk Rumah Bayitaz selama 12 bulan ke depan. Sistem ini menggunakan machine learning XGBoost dengan fitur-fitur canggih seperti prediksi iteratif, analisis musiman, dan lag features yang telah dikembangkan berdasarkan analisis mendalam dari notebook Jupyter.
 
 ## 🚀 Fitur Utama
 
-- **� Dashboard Beranda**: Ringkasan sistem dan statistik utama dalam bahasa Indonesia
+- **🏠 Dashboard Beranda**: Ringkasan sistem dan statistik utama dalam bahasa Indonesia
 - **📈 Prediksi Produk Individual**: Prediksi detail 12 bulan untuk produk tertentu
 - **📊 Analisis Keseluruhan**: Prediksi multiple produk sekaligus dengan visualisasi agregat
 - **🔍 Eksplorasi Data**: Analisis mendalam data historis dan pola penjualan
 - **📱 UI Responsif**: Interface bahasa Indonesia yang user-friendly
 - **📥 Export Data**: Download hasil prediksi dalam format CSV
 
-## ⚡ Quick Start
+## ⚡ Memulai Aplikasi
 
 ### Windows (Mudah)
 ```bash
@@ -27,15 +27,12 @@ run_app.bat
 pip install -r requirements.txt
 
 # Jalankan aplikasi
-python run_streamlit.py
-
-# Atau langsung dengan streamlit
-streamlit run Src/app.py
+streamlit run Src/app_final_bahasa_indonesia.py
 ```
 
 Aplikasi akan terbuka di browser di alamat: http://localhost:8501
 
-## 📋 Requirements
+## 📋 Persyaratan
 
 - Python 3.8+
 - Dependencies dalam `requirements.txt`
@@ -45,12 +42,12 @@ Aplikasi akan terbuka di browser di alamat: http://localhost:8501
 ## 🏗️ Arsitektur Sistem
 
 ```
-Data Historis → Feature Engineering → XGBoost Model → Prediksi Iteratif → Visualisasi
+Data Historis → Feature Engineering → Model XGBoost → Prediksi Iteratif → Visualisasi
      ↓                ↓                 ↓              ↓              ↓
-  CSV Files      Temporal Features  Trained Model    12 Months     Streamlit UI
-               Lag Features (1-3M)  Best Params     Forecasting    Interactive Charts
-               Rolling Average      Saved .pkl      Dynamic Update  Download CSV
-               Seasonal Index       Selected Feat.  Seasonal Adj.   Bahasa Indonesia
+  File CSV      Fitur Temporal     Model Terlatih    12 Bulan     Streamlit UI
+               Lag Features (1-3M)  Parameter Terbaik  Forecasting    Chart Interaktif
+               Rolling Average      Saved .pkl      Update Dinamis  Download CSV
+               Indeks Musiman       Fitur Terpilih   Penyesuaian Musiman   Bahasa Indonesia
 ```
 
 ## 🤖 Model Machine Learning
@@ -62,12 +59,12 @@ Sistem menggunakan **XGBoost Regressor** yang telah dioptimasi dengan:
 - **Lag Features**: Data 1-3 bulan sebelumnya (Total_Jumlah, Penjualan, Views)
 - **Rolling Features**: Rata-rata bergulir 3 bulan
 - **Seasonal**: Indeks musiman dan tren
-- **Product-Specific**: Mean per produk, growth rate, stock features
+- **Product-Specific**: Mean per produk, growth rate, fitur stok
 
 ### Metode Prediksi:
 - **Iteratif**: Prediksi bulan demi bulan dengan update fitur dinamis
-- **Seasonal Adjustment**: Penyesuaian pola musiman per produk
-- **Feature Update**: Lag dan rolling features diperbarui setiap prediksi
+- **Penyesuaian Musiman**: Penyesuaian pola musiman per produk
+- **Update Fitur**: Lag dan rolling features diperbarui setiap prediksi
 
 ### Evaluasi Model:
 - **MAE**: Mean Absolute Error
@@ -75,155 +72,154 @@ Sistem menggunakan **XGBoost Regressor** yang telah dioptimasi dengan:
 - **MAPE**: Mean Absolute Percentage Error
 - **R² Score**: Coefficient of Determination
 
-## 📁 Required Input Files
-1. `hari_libur_2023-2024.csv` - Holiday dates data
-2. `Penjualan Rumah Bayita Shopee 2023-2024 (FULL).csv` - Main sales data
-3. `Pesanan Siap Dikirim 2023-2024.csv` - Ready-to-ship orders data
-4. `Status Stok Penjualan 2023-2024 RumahBayitaz.csv` - Stock status data
-5. `stok_toko.csv` - Store stock data
+## 📁 File Input yang Diperlukan
+1. `hari_libur_2023-2024.csv` - Data tanggal libur
+2. `Penjualan Rumah Bayita Shopee 2023-2024 (FULL).csv` - Data penjualan utama
+3. `Pesanan Siap Dikirim 2023-2024.csv` - Data pesanan siap kirim
+4. `Status Stok Penjualan 2023-2024 RumahBayitaz.csv` - Data status stok
+5. `stok_toko.csv` - Data stok toko
 
-## 🚀 Setup Instructions
+## 🚀 Instruksi Setup
 
 ### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Create Demo Model (if you don't have the trained model yet)
+### 2. Buat Model Demo (jika belum memiliki model terlatih)
 ```bash
 cd Src
 python create_demo_model.py
 ```
 
-### 3. Run the Streamlit App
+### 3. Jalankan Aplikasi Streamlit
 
-#### Option 1: Using the Launcher Scripts (Recommended)
+#### Opsi 1: Menggunakan Script Launcher (Direkomendasikan)
 **Windows:**
 ```cmd
 run_app.bat
 ```
 
-**Python (All platforms):**
+**Python (Semua platform):**
 ```bash
 python run_app.py
 ```
 
-#### Option 2: Direct Command
+#### Opsi 2: Perintah Langsung
 ```bash
-streamlit run streamlit_app_complete.py --server.port 8503
+streamlit run Src/app_final_bahasa_indonesia.py --server.port 8501
 ```
 
-## 📌 App Features
+## 📌 Fitur Aplikasi
 
-### 🔄 Data Processing
-- **Automatic File Upload**: Upload interface for all 5 required CSV files
-- **Data Cleaning**: Handles missing values, date parsing, and data type conversion
-- **Feature Engineering**: Creates 20+ features including:
-  - Temporal features (Year, Month, Quarter, cyclical encoding)
-  - Lag features (1, 2, 3 months)
+### 🔄 Pemrosesan Data
+- **Upload File Otomatis**: Interface upload untuk semua 5 file CSV yang diperlukan
+- **Pembersihan Data**: Menangani missing values, parsing tanggal, dan konversi tipe data
+- **Feature Engineering**: Membuat 20+ fitur termasuk:
+  - Fitur temporal (Year, Month, Quarter, cyclical encoding)
+  - Fitur lag (1, 2, 3 bulan)
   - Rolling averages
   - Growth rates
-  - Product-specific statistics
-  - Holiday indicators
-  - Price and efficiency ratios
+  - Statistik khusus produk
+  - Indikator hari libur
+  - Rasio harga dan efisiensi
 
-### 🔮 Predictions
-- **XGBoost Model**: Uses pre-trained XGBoost regressor
-- **Multi-Product Forecasting**: Generates predictions for top-performing products
-- **Growth Analysis**: Calculates growth percentages
-- **Validation**: Ensures non-negative predictions
+### 🔮 Prediksi
+- **Model XGBoost**: Menggunakan XGBoost regressor yang telah dilatih
+- **Forecasting Multi-Produk**: Menghasilkan prediksi untuk produk berkinerja terbaik
+- **Analisis Pertumbuhan**: Menghitung persentase pertumbuhan
+- **Validasi**: Memastikan prediksi tidak negatif
 
-### 📊 Visualizations
-- **Interactive Charts**: Built with Plotly
-- **Comparison Views**: Current vs predicted sales
-- **Growth Rate Analysis**: Visual growth indicators
-- **Time Series Plots**: Historical trends
-- **Responsive Design**: Works on different screen sizes
+### 📊 Visualisasi
+- **Chart Interaktif**: Dibangun dengan Plotly
+- **Tampilan Perbandingan**: Penjualan saat ini vs prediksi
+- **Analisis Growth Rate**: Indikator visual pertumbuhan
+- **Plot Time Series**: Tren historis
+- **Desain Responsif**: Bekerja di berbagai ukuran layar
 
-### 💾 Export Features
-- **CSV Download**: Export predictions and processed data
-- **Timestamped Files**: Automatic file naming with timestamps
-- **Multiple Formats**: Both summary and detailed exports
+### 💾 Fitur Export
+- **Download CSV**: Export prediksi dan data yang diproses
+- **File Bermerek Waktu**: Penamaan file otomatis dengan timestamp
+- **Multiple Format**: Export ringkasan dan detail
 
-## 🎨 UI Features
-- **Modern Design**: Gradient backgrounds and card layouts
-- **Responsive Layout**: Wide layout with sidebar navigation
-- **Progress Indicators**: Loading spinners and progress messages
-- **Color-coded Results**: Visual indicators for performance
-- **Tabbed Interface**: Organized content in tabs
+## 🎨 Fitur UI
+- **Desain Modern**: Background gradien dan layout kartu
+- **Layout Responsif**: Layout lebar dengan navigasi sidebar
+- **Indikator Progress**: Loading spinner dan pesan progress
+- **Hasil Berkode Warna**: Indikator visual untuk performa
+- **Interface Tab**: Konten terorganisir dalam tab
 
-## 🔧 Technical Details
+## 🔧 Detail Teknis
 
-### Data Preprocessing Pipeline
-1. **Load and Parse**: Read CSV files with proper date parsing
-2. **Aggregate**: Group by product and month
-3. **Feature Creation**: Generate time-series and business features
-4. **External Data Integration**: Merge with stock and shipping data
-5. **Missing Value Handling**: Fill NaN values appropriately
+### Pipeline Preprocessing Data
+1. **Load dan Parse**: Baca file CSV dengan parsing tanggal yang tepat
+2. **Agregasi**: Kelompokkan berdasarkan produk dan bulan
+3. **Pembuatan Fitur**: Buat fitur time-series dan bisnis
+4. **Integrasi Data Eksternal**: Gabungkan dengan data stok dan pengiriman
+5. **Penanganan Missing Value**: Isi nilai NaN dengan tepat
 
-### Model Integration
-- **Joblib Loading**: Efficient model serialization
-- **Feature Alignment**: Ensures correct feature order and presence
-- **Error Handling**: Graceful error handling for missing features
-- **Batch Prediction**: Processes multiple products efficiently
+### Integrasi Model
+- **Loading Joblib**: Serialisasi model yang efisien
+- **Alignment Fitur**: Memastikan urutan dan keberadaan fitur yang benar
+- **Error Handling**: Penanganan error yang halus untuk fitur yang hilang
+- **Prediksi Batch**: Memproses multiple produk secara efisien
 
-### File Structure
+### Struktur File
 ```
-├── streamlit_app_complete.py     # Main comprehensive Streamlit application
-├── run_app.py                    # Python launcher script
-├── run_app.bat                   # Windows batch launcher
-├── test_app.py                   # Test script for validation
+├── run_app.bat                       # Windows batch launcher
 ├── Src/
-│   ├── streamlit_app.py          # Original Streamlit application
-│   └── create_demo_model.py      # Demo model creation script
+│   ├── app_final_bahasa_indonesia.py # Aplikasi Streamlit utama
+│   ├── core_functions.py             # Fungsi inti backend
+│   ├── data_preprocessing.py         # Preprocessing data
+│   └── data_comparison.py            # Perbandingan data (opsional)
 ├── saved_model/
-│   ├── xgboost_regressor_TUNED.pkl    # Trained XGBoost model
-│   └── selected_features.pkl          # List of selected features
-├── Data/                         # Upload your CSV files here
-├── requirements.txt              # Python dependencies
-└── README.md                    # This file
+│   ├── xgboost_regressor_TUNED.pkl   # Model XGBoost terlatih
+│   └── selected_features.pkl         # Daftar fitur terpilih
+├── Data/                             # Upload file CSV Anda di sini
+├── requirements.txt                  # Dependencies Python
+└── README.md                         # File ini
 ```
 
-## 🔄 Usage Workflow
+## 🔄 Alur Penggunaan
 
-1. **Start the App**: 
-   - **Windows**: Double-click `run_app.bat` or run `python run_app.py`
-   - **Other platforms**: Run `python run_app.py` or `streamlit run streamlit_app_complete.py`
-2. **Upload Files**: Use the sidebar to upload all 5 CSV files
-3. **Process Data**: Click "Process Data & Generate Predictions"
-4. **View Results**: Explore the different tabs:
-   - **Data Overview**: See processed data statistics
-   - **Predictions**: View prediction results table
-   - **Visualizations**: Interactive charts and graphs
-   - **Download Results**: Export CSV files
-5. **Download**: Export results for further analysis
+1. **Mulai Aplikasi**: 
+   - **Windows**: Double-click `run_app.bat`
+   - **Platform lain**: Jalankan `streamlit run Src/app_final_bahasa_indonesia.py`
+2. **Upload File**: Gunakan sidebar untuk upload semua 5 file CSV
+3. **Proses Data**: Klik "Proses Data & Generate Prediksi"
+4. **Lihat Hasil**: Jelajahi tab yang berbeda:
+   - **Overview Data**: Lihat statistik data yang diproses
+   - **Prediksi**: Lihat tabel hasil prediksi
+   - **Visualisasi**: Chart dan grafik interaktif
+   - **Download Hasil**: Export file CSV
+5. **Download**: Export hasil untuk analisis lebih lanjut
 
-## 🎯 Performance Features
-- **Top Products Focus**: Analyzes top-performing products for better insights
-- **Efficient Processing**: Optimized for large datasets
-- **Memory Management**: Handles data efficiently
-- **Fast Predictions**: Quick model inference
+## 🎯 Fitur Performa
+- **Fokus Produk Terbaik**: Menganalisis produk berkinerja terbaik untuk insight yang lebih baik
+- **Pemrosesan Efisien**: Dioptimalkan untuk dataset besar
+- **Manajemen Memori**: Menangani data secara efisien
+- **Prediksi Cepat**: Inferensi model yang cepat
 
 ## 🚨 Troubleshooting
 
-### Common Issues
-1. **Model Not Found**: Run `create_demo_model.py` to create a demo model
-2. **Import Errors**: Install all dependencies with `pip install -r requirements.txt`
-3. **CSV Format Issues**: Ensure CSV files have the expected columns
-4. **Memory Issues**: Try with smaller datasets first
+### Masalah Umum
+1. **Model Tidak Ditemukan**: Pastikan file model ada di folder `saved_model/`
+2. **Error Import**: Install semua dependencies dengan `pip install -r requirements.txt`
+3. **Masalah Format CSV**: Pastikan file CSV memiliki kolom yang diharapkan
+4. **Masalah Memori**: Coba dengan dataset yang lebih kecil terlebih dahulu
 
-### Requirements
+### Persyaratan
 - Python 3.8+
-- 8GB+ RAM recommended for large datasets
-- Modern web browser
+- RAM 8GB+ direkomendasikan untuk dataset besar
+- Browser web modern
 
-## 🔮 Future Enhancements
-- **Real-time Data**: Connect to live data sources
-- **Model Retraining**: Interface for updating the model
-- **Advanced Analytics**: More sophisticated forecasting
-- **API Integration**: REST API for programmatic access
-- **Multi-language Support**: Internationalization
-- **Mobile Optimization**: Better mobile experience
+## 🔮 Pengembangan Masa Depan
+- **Data Real-time**: Koneksi ke sumber data live
+- **Model Retraining**: Interface untuk update model
+- **Analitik Lanjutan**: Forecasting yang lebih sophisticated
+- **Integrasi API**: REST API untuk akses programmatic
+- **Dukungan Multi-bahasa**: Internasionalisasi
+- **Optimisasi Mobile**: Pengalaman mobile yang lebih baik
 
-## 📝 License
-This project is for educational and research purposes.
+## 📝 Lisensi
+Proyek ini untuk tujuan edukasi dan penelitian.
