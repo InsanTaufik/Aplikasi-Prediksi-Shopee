@@ -1,0 +1,356 @@
+ID_Produk,Bulan,Produk_Variasi,Stok_Awal,Total_Jumlah,Stok_Akhir,Pending,Stok_Status
+1,2023-01,Baby Walker Merk Sugar Baby - Warna Biru,76,1,75,0,Overstock
+2,2023-01,Baby Walker Merk Sugar Baby - Warna Pink,16,1,15,0,Kurang Optimal
+3,2023-01,Buku Jurnal Bayi Merk My Baby Journal - Tidak ada variasi,1,1,0,0,Optimal
+4,2023-01,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",80,25,55,0,Overstock
+5,2023-01,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",97,24,73,0,Overstock
+6,2023-01,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",79,8,71,0,Overstock
+7,2023-01,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",20,11,9,0,Kurang Optimal
+8,2023-01,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",18,3,15,0,Kurang Optimal
+9,2023-01,Handuk Renang Anak Hoodie Ponco - Tidak ada variasi,1,1,0,0,Optimal
+10,2023-01,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",64,2,62,0,Overstock
+11,2023-01,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",61,1,60,0,Overstock
+12,2023-01,"Kartu Ucapan Kado Bayi - Kertas Kado, Boy",96,8,88,0,Overstock
+13,2023-01,Kertas Kado Bayi - Tidak ada variasi,1,3,0,2,Understock
+14,2023-01,Softbook Edukasi Bayi Motif Hewan - Motif Doggie,1,1,0,0,Optimal
+15,2023-01,Toilet Training Seat Merk Sugar Baby - Warna Biru,82,2,80,0,Overstock
+16,2023-01,Toilet Training Seat Merk Sugar Baby - Warna Pink,51,1,50,0,Overstock
+17,2023-02,8in1 Gift Parcel Bayi Import - Usia 3–6 Bulan,6,1,5,0,Kurang Optimal
+18,2023-02,Baju Renang Anak Premium Motif Karakter - Tidak ada variasi,1,1,0,0,Optimal
+4,2023-02,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",104,4,100,0,Overstock
+5,2023-02,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",8,10,0,2,Understock
+6,2023-02,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",67,10,57,0,Overstock
+7,2023-02,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",52,20,32,0,Overstock
+8,2023-02,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",89,9,80,0,Overstock
+19,2023-02,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",85,5,80,0,Overstock
+9,2023-02,Handuk Renang Anak Hoodie Ponco - Tidak ada variasi,74,2,72,0,Overstock
+10,2023-02,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",62,2,60,0,Overstock
+14,2023-02,Softbook Edukasi Bayi Motif Hewan - Motif Doggie,15,1,14,0,Kurang Optimal
+5,2023-03,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",1,6,0,5,Understock
+6,2023-03,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",3,3,0,0,Optimal
+19,2023-03,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",38,1,37,0,Overstock
+11,2023-03,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",1,1,0,0,Optimal
+20,2023-03,"Kartu Ucapan Kado Bayi - Kertas Kado, Girl",1,1,0,0,Optimal
+14,2023-03,Softbook Edukasi Bayi Motif Hewan - Motif Doggie,1,1,0,0,Optimal
+21,2023-03,Softbook Edukasi Bayi Motif Hewan - Motif Owl,1,1,0,0,Optimal
+22,2023-03,Softbook Mandi Bayi Motif Hewan Import - Motif Farm,1,1,0,0,Optimal
+23,2023-03,Softbook Mandi Bayi Motif Hewan Import - Motif Land Animal,17,1,16,0,Kurang Optimal
+15,2023-03,Toilet Training Seat Merk Sugar Baby - Warna Biru,40,1,39,0,Overstock
+16,2023-03,Toilet Training Seat Merk Sugar Baby - Warna Pink,1,2,0,1,Understock
+24,2023-04,Activity Walker 10in1 Merk Sugar Baby - Warna Orange,1,1,0,0,Optimal
+6,2023-04,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",55,3,52,0,Overstock
+18,2023-05,Baju Renang Anak Premium Motif Karakter - Tidak ada variasi,26,1,25,0,Overstock
+4,2023-05,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",50,48,2,0,Kurang Optimal
+5,2023-05,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",27,28,0,1,Understock
+6,2023-05,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",20,30,0,10,Understock
+7,2023-05,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",92,16,76,0,Overstock
+8,2023-05,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",54,18,36,0,Overstock
+25,2023-05,Gendongan Bayi Klasik FIN BABY - Motif Red Tayo,1,1,0,0,Optimal
+9,2023-05,Handuk Renang Anak Hoodie Ponco - Tidak ada variasi,4,1,3,0,Kurang Optimal
+26,2023-05,Kursi Goyang Bayi 10in1 Merk Sugar Baby - Warna Pink,8,1,7,0,Kurang Optimal
+27,2023-05,Mainan Rattle Stick dan Donat 2in1 - Warna Pink,12,1,11,0,Kurang Optimal
+28,2023-05,Tas Stroller Organizer Bayi - Tidak ada variasi,55,1,54,0,Overstock
+29,2023-06,"8in1 Gift Parcel Bayi Import - Warna Abu, Usia 6–9 Bulan",26,1,25,0,Overstock
+30,2023-06,Baby Walker Merk Sugar Baby - Warna Putih,1,1,0,0,Optimal
+18,2023-06,Baju Renang Anak Premium Motif Karakter - Tidak ada variasi,3,5,0,2,Understock
+4,2023-06,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",24,21,3,0,Kurang Optimal
+5,2023-06,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",34,26,8,0,Kurang Optimal
+6,2023-06,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",31,14,17,0,Kurang Optimal
+7,2023-06,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",45,48,0,3,Understock
+8,2023-06,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",130,37,93,0,Overstock
+19,2023-06,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",26,14,12,0,Kurang Optimal
+31,2023-06,Handuk Renang Anak Merk Little Palmerhaus - Motif Girl,7,1,6,0,Kurang Optimal
+11,2023-06,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",88,2,86,0,Overstock
+20,2023-06,"Kartu Ucapan Kado Bayi - Kertas Kado, Girl",1,1,0,0,Optimal
+14,2023-06,Softbook Edukasi Bayi Motif Hewan - Motif Doggie,35,1,34,0,Overstock
+32,2023-06,Softbook Mandi Bayi Motif Hewan Import - Motif Dino,1,1,0,0,Optimal
+4,2023-07,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",8,12,0,4,Understock
+5,2023-07,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",104,23,81,0,Overstock
+6,2023-07,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",6,10,0,4,Understock
+7,2023-07,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",27,12,15,0,Kurang Optimal
+8,2023-07,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",31,7,24,0,Overstock
+19,2023-07,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",1,2,0,1,Understock
+9,2023-07,Handuk Renang Anak Hoodie Ponco - Tidak ada variasi,58,3,55,0,Overstock
+13,2023-07,Kertas Kado Bayi - Tidak ada variasi,99,1,98,0,Overstock
+4,2023-08,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",12,15,0,3,Understock
+5,2023-08,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",17,9,8,0,Kurang Optimal
+6,2023-08,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",19,6,13,0,Kurang Optimal
+7,2023-08,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",7,8,0,1,Understock
+8,2023-08,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",16,16,0,0,Optimal
+33,2023-08,Kursi Goyang Bayi 10in1 Merk Sugar Baby - Warna Krem,1,1,0,0,Optimal
+34,2023-09,"8in1 Gift Parcel Bayi Import - Motif Kelinci, Usia 6–9 Bulan",1,2,0,1,Understock
+4,2023-09,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",36,25,11,0,Kurang Optimal
+5,2023-09,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",20,19,1,0,Kurang Optimal
+6,2023-09,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",34,10,24,0,Overstock
+7,2023-09,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",13,16,0,3,Understock
+8,2023-09,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",20,25,0,5,Understock
+19,2023-09,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",13,8,5,0,Kurang Optimal
+11,2023-09,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",74,2,72,0,Overstock
+13,2023-09,Kertas Kado Bayi - Tidak ada variasi,2,2,0,0,Optimal
+35,2023-09,Piano Playmat Merk Sugar Baby - Warna Pink,24,1,23,0,Overstock
+36,2023-09,Toilet Training Seat Merk Sugar Baby - Warna Abu,76,1,75,0,Overstock
+15,2023-09,Toilet Training Seat Merk Sugar Baby - Warna Biru,1,1,0,0,Optimal
+18,2023-10,Baju Renang Anak Premium Motif Karakter - Tidak ada variasi,8,2,6,0,Kurang Optimal
+37,2023-10,"Bando, Bandana, dan Kaos Kaki Bayi Motif Bunga - Tidak ada variasi",39,1,38,0,Overstock
+4,2023-10,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",14,26,0,12,Understock
+5,2023-10,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",34,17,17,0,Kurang Optimal
+6,2023-10,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",6,9,0,3,Understock
+7,2023-10,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",63,18,45,0,Overstock
+8,2023-10,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",9,9,0,0,Optimal
+19,2023-10,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",22,13,9,0,Kurang Optimal
+9,2023-10,Handuk Renang Anak Hoodie Ponco - Tidak ada variasi,1,1,0,0,Optimal
+11,2023-10,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",1,1,0,0,Optimal
+20,2023-10,"Kartu Ucapan Kado Bayi - Kertas Kado, Girl",26,1,25,0,Overstock
+38,2023-10,Mainan Rattle Gantung Motif Animal - Tidak ada variasi,37,1,36,0,Overstock
+39,2023-10,Piano Playmat Proyektor Merk Sugar Baby - Warna Pink,6,1,5,0,Kurang Optimal
+32,2023-10,Softbook Mandi Bayi Motif Hewan Import - Motif Dino,1,1,0,0,Optimal
+28,2023-10,Tas Stroller Organizer Bayi - Tidak ada variasi,100,1,99,0,Overstock
+15,2023-10,Toilet Training Seat Merk Sugar Baby - Warna Biru,23,1,22,0,Overstock
+40,2023-11,"8in1 Gift Parcel Bayi Import - Motif Gajah Hijau, Usia 0–3 Bulan",9,1,8,0,Kurang Optimal
+41,2023-11,"8in1 Gift Parcel Bayi Import - Motif Kelinci, Usia 0–3 Bulan",11,1,10,0,Kurang Optimal
+42,2023-11,"8in1 Gift Parcel Bayi Import - Motif Unicorn, Usia 0–3 Bulan",65,1,64,0,Overstock
+43,2023-11,"8in1 Gift Parcel Bayi Import - Motif Unicorn, Usia 6–9 Bulan",47,1,46,0,Overstock
+17,2023-11,8in1 Gift Parcel Bayi Import - Usia 3–6 Bulan,35,1,34,0,Overstock
+4,2023-11,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",69,38,31,0,Overstock
+5,2023-11,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran M",4,8,0,4,Understock
+6,2023-11,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran XL",11,15,0,4,Understock
+7,2023-11,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",101,36,65,0,Overstock
+8,2023-11,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",72,16,56,0,Overstock
+19,2023-11,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",17,18,0,1,Understock
+44,2023-11,Handuk Renang Anak Hoodie Ponco - Gender Girl,92,1,91,0,Overstock
+9,2023-11,Handuk Renang Anak Hoodie Ponco - Tidak ada variasi,1,1,0,0,Optimal
+11,2023-11,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",41,1,40,0,Overstock
+13,2023-11,Kertas Kado Bayi - Tidak ada variasi,81,2,79,0,Overstock
+45,2023-11,Kursi Lipat Traveling Bayi Merk Sugar Baby  - Warna Biru,8,1,7,0,Kurang Optimal
+35,2023-11,Piano Playmat Merk Sugar Baby - Warna Pink,19,1,18,0,Kurang Optimal
+16,2023-11,Toilet Training Seat Merk Sugar Baby - Warna Pink,55,2,53,0,Overstock
+46,2023-12,"8in1 Gift Parcel Bayi Import - Motif Gajah Hijau, Usia 6–9 Bulan",18,1,17,0,Kurang Optimal
+41,2023-12,"8in1 Gift Parcel Bayi Import - Motif Kelinci, Usia 0–3 Bulan",1,1,0,0,Optimal
+47,2023-12,"8in1 Gift Parcel Bayi Import - Motif Kelinci, Usia 3–6 Bulan",19,2,17,0,Kurang Optimal
+42,2023-12,"8in1 Gift Parcel Bayi Import - Motif Unicorn, Usia 0–3 Bulan",11,1,10,0,Kurang Optimal
+48,2023-12,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",1,1,0,0,Optimal
+4,2023-12,"Diapers Renang Anak Merk WyethUs - Warna Biru, Ukuran L",5,2,3,0,Kurang Optimal
+7,2023-12,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran L",4,4,0,0,Optimal
+8,2023-12,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran M",1,4,0,3,Understock
+19,2023-12,"Diapers Renang Anak Merk WyethUs - Warna Pink, Ukuran XL",82,10,72,0,Overstock
+49,2023-12,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran L",3,5,0,2,Understock
+50,2023-12,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran M",3,3,0,0,Optimal
+51,2023-12,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran XL",83,5,78,0,Overstock
+10,2023-12,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",34,1,33,0,Overstock
+13,2023-12,Kertas Kado Bayi - Tidak ada variasi,42,1,41,0,Overstock
+15,2023-12,Toilet Training Seat Merk Sugar Baby - Warna Biru,1,1,0,0,Optimal
+46,2024-01,"8in1 Gift Parcel Bayi Import - Motif Gajah Hijau, Usia 6–9 Bulan",68,1,67,0,Overstock
+48,2024-01,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",54,1,53,0,Overstock
+3,2024-01,Buku Jurnal Bayi Merk My Baby Journal - Tidak ada variasi,101,1,100,0,Overstock
+49,2024-01,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran L",110,17,93,0,Overstock
+52,2024-01,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran M",30,10,20,0,Kurang Optimal
+53,2024-01,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran XL",16,15,1,0,Kurang Optimal
+54,2024-01,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran L",42,27,15,0,Kurang Optimal
+50,2024-01,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran M",23,24,0,1,Understock
+51,2024-01,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran XL",39,21,18,0,Kurang Optimal
+11,2024-01,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",1,1,0,0,Optimal
+55,2024-01,Piano Playmat Merk Sugar Baby - Warna Biru,1,1,0,0,Optimal
+39,2024-01,Piano Playmat Proyektor Merk Sugar Baby - Warna Pink,21,1,20,0,Kurang Optimal
+36,2024-01,Toilet Training Seat Merk Sugar Baby - Warna Abu,1,1,0,0,Optimal
+56,2024-02,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Boy",1,1,0,0,Optimal
+57,2024-02,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Boy",23,2,21,0,Overstock
+58,2024-02,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Girl",1,1,0,0,Optimal
+49,2024-02,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran L",55,34,21,0,Overstock
+52,2024-02,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran M",10,13,0,3,Understock
+53,2024-02,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran XL",56,39,17,0,Kurang Optimal
+54,2024-02,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran L",46,22,24,0,Overstock
+50,2024-02,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran M",35,13,22,0,Overstock
+51,2024-02,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran XL",45,12,33,0,Overstock
+44,2024-02,Handuk Renang Anak Hoodie Ponco - Gender Girl,17,1,16,0,Kurang Optimal
+11,2024-02,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",12,4,8,0,Kurang Optimal
+59,2024-02,Kursi Mandi Bayi Lipat Merk Sugar Baby - Warna Pink,92,1,91,0,Overstock
+60,2024-02,Piano Playmat Merk Sugar Baby - Warna Merah,49,1,48,0,Overstock
+21,2024-02,Softbook Edukasi Bayi Motif Hewan - Motif Owl,1,1,0,0,Optimal
+36,2024-02,Toilet Training Seat Merk Sugar Baby - Warna Abu,1,1,0,0,Optimal
+16,2024-02,Toilet Training Seat Merk Sugar Baby - Warna Pink,1,1,0,0,Optimal
+61,2024-03,"8in1 Gift Parcel Bayi Import - Motif Sheep, Usia 3–6 Bulan",1,1,0,0,Optimal
+62,2024-03,8in1 Gift Parcel Bayi Import - Usia 6–9 Bulan,16,1,15,0,Kurang Optimal
+63,2024-03,"Diapers Renang Anak - Warna Biru, Ukuran L",7,12,0,5,Understock
+64,2024-03,"Diapers Renang Anak - Warna Biru, Ukuran M",5,9,0,4,Understock
+65,2024-03,"Diapers Renang Anak - Warna Biru, Ukuran XL",15,19,0,4,Understock
+66,2024-03,"Diapers Renang Anak - Warna Pink, Ukuran L",66,4,62,0,Overstock
+67,2024-03,"Diapers Renang Anak - Warna Pink, Ukuran M",9,3,6,0,Kurang Optimal
+68,2024-03,"Diapers Renang Anak - Warna Pink, Ukuran XL",6,9,0,3,Understock
+49,2024-03,"Diapers Renang Anak merk wyeth us - Warna Biru, Ukuran L",67,1,66,0,Overstock
+54,2024-03,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran L",62,1,61,0,Overstock
+50,2024-03,"Diapers Renang Anak merk wyeth us - Warna Pink, Ukuran M",1,1,0,0,Optimal
+69,2024-03,Kursi Goyang Bayi 10in1 Merk Sugar Baby - Motif Dear Bear,1,1,0,0,Optimal
+70,2024-03,Kursi Goyang Bayi 10in1 Merk Sugar Baby - Motif Super Hero,1,1,0,0,Optimal
+71,2024-04,"8in1 Gift Parcel Bayi Import - Motif Gajah Hijau, Usia 3–6 Bulan",16,1,15,0,Kurang Optimal
+72,2024-04,"8in1 Gift Parcel Bayi Import - Motif Unicorn, Usia 3–6 Bulan",13,1,12,0,Kurang Optimal
+73,2024-04,Baby Walker Minicar Merk Sugar Baby - Warna Pink,1,1,0,0,Optimal
+74,2024-04,Baby Walker Minicar Merk Sugar Baby - Warna Putih,13,1,12,0,Kurang Optimal
+48,2024-04,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",1,2,0,1,Understock
+63,2024-04,"Diapers Renang Anak - Warna Biru, Ukuran L",42,31,11,0,Kurang Optimal
+64,2024-04,"Diapers Renang Anak - Warna Biru, Ukuran M",53,7,46,0,Overstock
+65,2024-04,"Diapers Renang Anak - Warna Biru, Ukuran XL",6,10,0,4,Understock
+66,2024-04,"Diapers Renang Anak - Warna Pink, Ukuran L",5,10,0,5,Understock
+67,2024-04,"Diapers Renang Anak - Warna Pink, Ukuran M",35,2,33,0,Overstock
+68,2024-04,"Diapers Renang Anak - Warna Pink, Ukuran XL",97,5,92,0,Overstock
+10,2024-04,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",95,1,94,0,Overstock
+12,2024-04,"Kartu Ucapan Kado Bayi - Kertas Kado, Boy",1,1,0,0,Optimal
+26,2024-04,Kursi Goyang Bayi 10in1 Merk Sugar Baby - Warna Pink,20,1,19,0,Kurang Optimal
+55,2024-04,Piano Playmat Merk Sugar Baby - Warna Biru,6,1,5,0,Kurang Optimal
+36,2024-04,Toilet Training Seat Merk Sugar Baby - Warna Abu,2,2,0,0,Optimal
+15,2024-04,Toilet Training Seat Merk Sugar Baby - Warna Biru,1,1,0,0,Optimal
+16,2024-04,Toilet Training Seat Merk Sugar Baby - Warna Pink,72,1,71,0,Overstock
+75,2024-05,"8in1 Gift Parcel Bayi Import - Motif Mobil Balap Biru, Usia 0–3 Bulan",1,1,0,0,Optimal
+76,2024-05,"8in1 Gift Parcel Bayi Import - Usia 3–6 Bulan, Girl",1,1,0,0,Optimal
+77,2024-05,"8in1 Gift Parcel Bayi Import - Warna Biru, Usia 3–6 Bulan",95,1,94,0,Overstock
+78,2024-05,"8in1 Gift Parcel Bayi Import - Warna Kuning, Usia 3–6 Bulan",1,1,0,0,Optimal
+73,2024-05,Baby Walker Minicar Merk Sugar Baby - Warna Pink,25,1,24,0,Overstock
+56,2024-05,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Boy",1,1,0,0,Optimal
+79,2024-05,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Girl",17,2,15,0,Kurang Optimal
+80,2024-05,"Baju Renang Anak Premium Motif Karakter - Ukuran XXL, Boy",20,1,19,0,Kurang Optimal
+63,2024-05,"Diapers Renang Anak - Warna Biru, Ukuran L",9,11,0,2,Understock
+64,2024-05,"Diapers Renang Anak - Warna Biru, Ukuran M",47,7,40,0,Overstock
+65,2024-05,"Diapers Renang Anak - Warna Biru, Ukuran XL",52,3,49,0,Overstock
+66,2024-05,"Diapers Renang Anak - Warna Pink, Ukuran L",5,5,0,0,Optimal
+67,2024-05,"Diapers Renang Anak - Warna Pink, Ukuran M",12,7,5,0,Kurang Optimal
+68,2024-05,"Diapers Renang Anak - Warna Pink, Ukuran XL",96,3,93,0,Overstock
+81,2024-05,"Diapers Renang Anak Merk Ocheers - Warna Biru, Ukuran L",96,5,91,0,Overstock
+82,2024-05,"Diapers Renang Anak Merk Ocheers - Warna Biru, Ukuran M",25,2,23,0,Overstock
+83,2024-05,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",13,3,10,0,Kurang Optimal
+84,2024-05,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran M",8,3,5,0,Kurang Optimal
+85,2024-05,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",1,1,0,0,Optimal
+86,2024-05,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",37,4,33,0,Overstock
+10,2024-05,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",1,2,0,1,Understock
+11,2024-05,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",82,1,81,0,Overstock
+87,2024-05,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Unisex",75,7,68,0,Overstock
+20,2024-05,"Kartu Ucapan Kado Bayi - Kertas Kado, Girl",11,3,8,0,Kurang Optimal
+13,2024-05,Kertas Kado Bayi - Tidak ada variasi,13,1,12,0,Kurang Optimal
+88,2024-05,Kursi Makan 6in1 Merk Sugar Baby - Model K Chair Warna Beige,1,1,0,0,Optimal
+89,2024-05,Kursi Makan Lipat Anak Merk Sugar Baby - Warna Pink,16,1,15,0,Kurang Optimal
+15,2024-05,Toilet Training Seat Merk Sugar Baby - Warna Biru,2,2,0,0,Optimal
+61,2024-06,"8in1 Gift Parcel Bayi Import - Motif Sheep, Usia 3–6 Bulan",23,1,22,0,Overstock
+72,2024-06,"8in1 Gift Parcel Bayi Import - Motif Unicorn, Usia 3–6 Bulan",81,1,80,0,Overstock
+90,2024-06,"8in1 Gift Parcel Bayi Import - Warna Kuning, Usia 0–3 Bulan",85,1,84,0,Overstock
+56,2024-06,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Boy",1,1,0,0,Optimal
+48,2024-06,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",38,1,37,0,Overstock
+80,2024-06,"Baju Renang Anak Premium Motif Karakter - Ukuran XXL, Boy",91,1,90,0,Overstock
+82,2024-06,"Diapers Renang Anak Merk Ocheers - Warna Biru, Ukuran M",71,7,64,0,Overstock
+83,2024-06,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",73,10,63,0,Overstock
+85,2024-06,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",5,4,1,0,Kurang Optimal
+91,2024-06,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",81,7,74,0,Overstock
+86,2024-06,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",8,10,0,2,Understock
+92,2024-06,Kursi Lipat Traveling Bayi Merk Sugar Baby  - Warna Hijau,1,1,0,0,Optimal
+16,2024-06,Toilet Training Seat Merk Sugar Baby - Warna Pink,79,1,78,0,Overstock
+93,2024-07,"5in1 Gift Set Bayi Motif Karakter - Motif Simba, Usia 0–3 Bulan",2,1,1,0,Kurang Optimal
+90,2024-07,"8in1 Gift Parcel Bayi Import - Warna Kuning, Usia 0–3 Bulan",47,1,46,0,Overstock
+57,2024-07,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Boy",1,1,0,0,Optimal
+94,2024-07,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Girl",60,1,59,0,Overstock
+80,2024-07,"Baju Renang Anak Premium Motif Karakter - Ukuran XXL, Boy",1,1,0,0,Optimal
+82,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Biru, Ukuran M",7,13,0,6,Understock
+83,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",15,19,0,4,Understock
+84,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran M",5,7,0,2,Understock
+85,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",45,8,37,0,Overstock
+91,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",17,13,4,0,Kurang Optimal
+95,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran M",27,16,11,0,Kurang Optimal
+86,2024-07,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",48,12,36,0,Overstock
+13,2024-07,Kertas Kado Bayi - Tidak ada variasi,1,2,0,1,Understock
+55,2024-07,Piano Playmat Merk Sugar Baby - Warna Biru,100,2,98,0,Overstock
+75,2024-08,"8in1 Gift Parcel Bayi Import - Motif Mobil Balap Biru, Usia 0–3 Bulan",14,1,13,0,Kurang Optimal
+96,2024-08,"8in1 Gift Parcel Bayi Import - Motif Zebra Pink, Usia 6–9 Bulan",21,1,20,0,Kurang Optimal
+97,2024-08,"8in1 Gift Parcel Bayi Import - Usia 3–6 Bulan, Boy",78,1,77,0,Overstock
+98,2024-08,Baby Walker Minicar Merk Sugar Baby - Warna Biru,72,1,71,0,Overstock
+56,2024-08,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Boy",8,1,7,0,Kurang Optimal
+57,2024-08,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Boy",7,1,6,0,Kurang Optimal
+58,2024-08,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Girl",1,1,0,0,Optimal
+48,2024-08,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",17,1,16,0,Kurang Optimal
+94,2024-08,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Girl",9,1,8,0,Kurang Optimal
+82,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Biru, Ukuran M",62,2,60,0,Overstock
+83,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",4,5,0,1,Understock
+84,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran M",24,5,19,0,Kurang Optimal
+85,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",81,7,74,0,Overstock
+91,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",40,21,19,0,Kurang Optimal
+95,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran M",38,13,25,0,Overstock
+86,2024-08,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",115,44,71,0,Overstock
+11,2024-08,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",1,1,0,0,Optimal
+20,2024-08,"Kartu Ucapan Kado Bayi - Kertas Kado, Girl",1,3,0,2,Understock
+13,2024-08,Kertas Kado Bayi - Tidak ada variasi,24,4,20,0,Kurang Optimal
+59,2024-08,Kursi Mandi Bayi Lipat Merk Sugar Baby - Warna Pink,97,1,96,0,Overstock
+35,2024-08,Piano Playmat Merk Sugar Baby - Warna Pink,1,1,0,0,Optimal
+99,2024-08,"Piano Playmat Merk Sugar Baby - Warna Pink, Pianist Series",16,1,15,0,Kurang Optimal
+100,2024-08,Piano Playmat Proyektor Merk Sugar Baby - Warna Biru,90,1,89,0,Overstock
+101,2024-09,"8in1 Gift Parcel Bayi Import - Motif Sheep, Usia 0–3 Bulan",11,1,10,0,Kurang Optimal
+98,2024-09,Baby Walker Minicar Merk Sugar Baby - Warna Biru,9,1,8,0,Kurang Optimal
+73,2024-09,Baby Walker Minicar Merk Sugar Baby - Warna Pink,86,1,85,0,Overstock
+79,2024-09,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Girl",1,1,0,0,Optimal
+57,2024-09,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Boy",5,1,4,0,Kurang Optimal
+58,2024-09,"Baju Renang Anak Premium Motif Karakter - Ukuran M, Girl",7,1,6,0,Kurang Optimal
+48,2024-09,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",1,1,0,0,Optimal
+102,2024-09,"Baju Renang Anak Premium Motif Karakter - Ukuran XL, Boy",1,1,0,0,Optimal
+103,2024-09,"Baju Renang Anak Premium Motif Karakter - Ukuran XL, Girl",77,1,76,0,Overstock
+83,2024-09,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",4,6,0,2,Understock
+85,2024-09,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",32,9,23,0,Overstock
+91,2024-09,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",45,26,19,0,Kurang Optimal
+95,2024-09,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran M",15,19,0,4,Understock
+86,2024-09,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",74,53,21,0,Overstock
+10,2024-09,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",36,3,33,0,Overstock
+11,2024-09,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",1,2,0,1,Understock
+12,2024-09,"Kartu Ucapan Kado Bayi - Kertas Kado, Boy",25,5,20,0,Kurang Optimal
+20,2024-09,"Kartu Ucapan Kado Bayi - Kertas Kado, Girl",83,4,79,0,Overstock
+13,2024-09,Kertas Kado Bayi - Tidak ada variasi,11,1,10,0,Kurang Optimal
+104,2024-09,Kursi Makan Lipat Anak Merk Sugar Baby - Warna Biru Tua,16,1,15,0,Kurang Optimal
+105,2024-09,Mainan Rattle Tabung Motif Animal - Model C,1,1,0,0,Optimal
+55,2024-09,Piano Playmat Merk Sugar Baby - Warna Biru,44,2,42,0,Overstock
+35,2024-09,Piano Playmat Merk Sugar Baby - Warna Pink,1,2,0,1,Understock
+15,2024-09,Toilet Training Seat Merk Sugar Baby - Warna Biru,11,1,10,0,Kurang Optimal
+16,2024-09,Toilet Training Seat Merk Sugar Baby - Warna Pink,2,1,1,0,Kurang Optimal
+106,2024-10,"8in1 Gift Parcel Bayi Import - Motif Bunga, Usia 0–3 Bulan",1,1,0,0,Optimal
+107,2024-10,"8in1 Gift Parcel Bayi Import - Motif Tuxedo, Usia 0–3 Bulan",90,1,89,0,Overstock
+108,2024-10,"8in1 Gift Parcel Bayi Import - Motif Tuxedo, Usia 6–9 Bulan",9,2,7,0,Kurang Optimal
+109,2024-10,"8in1 Gift Parcel Bayi Import - Motif Zebra Pink, Usia 0–3 Bulan",14,1,13,0,Kurang Optimal
+56,2024-10,"Baju Renang Anak Premium Motif Karakter - Ukuran L, Boy",81,1,80,0,Overstock
+48,2024-10,"Baju Renang Anak Premium Motif Karakter - Ukuran S, Boy",1,1,0,0,Optimal
+110,2024-10,"Baju Renang Anak Premium Motif Karakter - XXL,Girl",13,2,11,0,Kurang Optimal
+111,2024-10,Bak Mandi Lipat Merk Sugar Baby - Warna Biru,1,2,0,1,Understock
+112,2024-10,Celana Renang Anak Motif Dino - Ukuran L,2,3,0,1,Understock
+113,2024-10,Celana Renang Anak Motif Dino - Ukuran M,46,3,43,0,Overstock
+114,2024-10,Celana Renang Anak Motif Dino - Ukuran XL,20,2,18,0,Kurang Optimal
+83,2024-10,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",17,17,0,0,Optimal
+84,2024-10,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran M",38,8,30,0,Overstock
+85,2024-10,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",16,11,5,0,Kurang Optimal
+91,2024-10,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",40,36,4,0,Kurang Optimal
+95,2024-10,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran M",25,16,9,0,Kurang Optimal
+86,2024-10,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",144,54,90,0,Overstock
+11,2024-10,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",19,2,17,0,Kurang Optimal
+13,2024-10,Kertas Kado Bayi - Tidak ada variasi,2,2,0,0,Optimal
+115,2024-10,Kursi Goyang Bayi 10in1 Merk Sugar Baby - Motif Lovely Day,94,1,93,0,Overstock
+116,2024-10,Kursi Lipat Traveling Bayi Merk Sugar Baby  - Warna Pink,1,1,0,0,Optimal
+117,2024-10,Kursi Makan Lipat Anak Merk Sugar Baby - Warna Krem,1,1,0,0,Optimal
+89,2024-10,Kursi Makan Lipat Anak Merk Sugar Baby - Warna Pink,1,1,0,0,Optimal
+55,2024-10,Piano Playmat Merk Sugar Baby - Warna Biru,69,3,66,0,Overstock
+35,2024-10,Piano Playmat Merk Sugar Baby - Warna Pink,2,2,0,0,Optimal
+99,2024-10,"Piano Playmat Merk Sugar Baby - Warna Pink, Pianist Series",8,1,7,0,Kurang Optimal
+36,2024-10,Toilet Training Seat Merk Sugar Baby - Warna Abu,1,1,0,0,Optimal
+118,2024-11,"8in1 Gift Parcel Bayi Import - Motif Bulan, Usia 6–9 Bulan",5,1,4,0,Kurang Optimal
+119,2024-11,"8in1 Gift Parcel Bayi Import - Warna Kuning, Usia 6–9 Bulan",50,1,49,0,Overstock
+98,2024-11,Baby Walker Minicar Merk Sugar Baby - Warna Biru,69,2,67,0,Overstock
+120,2024-11,Bak Mandi Lipat Merk Sugar Baby - Warna Pink Peach,4,2,2,0,Kurang Optimal
+113,2024-11,Celana Renang Anak Motif Dino - Ukuran M,9,1,8,0,Kurang Optimal
+83,2024-11,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran L",36,3,33,0,Overstock
+84,2024-11,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran M",94,6,88,0,Overstock
+85,2024-11,"Diapers Renang Anak Merk Ocheers - Warna Pink, Ukuran XL",75,1,74,0,Overstock
+91,2024-11,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",110,11,99,0,Overstock
+95,2024-11,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran M",67,2,65,0,Overstock
+86,2024-11,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran XL",5,9,0,4,Understock
+11,2024-11,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Girl",88,1,87,0,Overstock
+13,2024-11,Kertas Kado Bayi - Tidak ada variasi,54,3,51,0,Overstock
+121,2024-11,Kursi Mandi Bayi Lipat Merk Sugar Baby - Warna Peach,1,1,0,0,Optimal
+35,2024-11,Piano Playmat Merk Sugar Baby - Warna Pink,1,1,0,0,Optimal
+100,2024-11,Piano Playmat Proyektor Merk Sugar Baby - Warna Biru,9,1,8,0,Kurang Optimal
+122,2024-11,Piano Playmat Proyektor Merk Sugar Baby - Warna Hijau,17,1,16,0,Kurang Optimal
+123,2024-12,"8in1 Gift Parcel Bayi Import - Motif Dino Biru, Usia 0–3 Bulan",1,1,0,0,Optimal
+75,2024-12,"8in1 Gift Parcel Bayi Import - Motif Mobil Balap Biru, Usia 0–3 Bulan",15,1,14,0,Kurang Optimal
+114,2024-12,Celana Renang Anak Motif Dino - Ukuran XL,1,1,0,0,Optimal
+91,2024-12,"Diapers Renang Anak Merk Ocheers - Warna Putih, Ukuran L",5,6,0,1,Understock
+10,2024-12,"Kartu Ucapan Kado Bayi - Kartu Ucapan, Boy",39,1,38,0,Overstock
+13,2024-12,Kertas Kado Bayi - Tidak ada variasi,11,1,10,0,Kurang Optimal
+124,2024-12,Kursi Makan Lipat Anak Merk Sugar Baby - Warna Biru Muda,1,1,0,0,Optimal
+125,2024-12,Piano Playmat Merk Sugar Baby - Warna Grey,3,1,2,0,Kurang Optimal
