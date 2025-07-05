@@ -1,7 +1,7 @@
 @echo off
-echo ========================================
-echo    Rumah Bayitaz Sales Prediction App
-echo ========================================
+echo ================================================
+echo    Aplikasi Prediksi Penjualan Rumah Bayitaz
+echo ================================================
 echo.
 echo Memulai aplikasi prediksi penjualan...
 echo.
